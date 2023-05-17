@@ -7,7 +7,7 @@
 
     <div>
       <h1>html</h1>
-      <div id="result" class="markdown wikistyle 绿清爽"></div>
+      <div id="result" class="markdown wikistyle 粉红"></div>
     </div>
   </div>
 </template>
@@ -27,7 +27,7 @@ export default {
   mounted() {
     console.log();
 
-    this.getFile('./README.md');
+    this.getFile('./README.txt');
   },
   methods: {
     getFile(url) {
@@ -44,7 +44,8 @@ export default {
 };
 </script>
 <style lang="less" scoped>
-@import '../../assets/markdown/绿清爽.css';
+// 脏灰  粉红  紫红  红幼 蓝色商务 绿清爽 正常 普通
+@import '../../assets/markdown/粉红.css';
 .content {
   width: 100%;
 }
