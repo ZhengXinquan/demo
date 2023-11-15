@@ -1,0 +1,170 @@
+[
+  {
+    "id": 7,
+    "bname": "工资",
+    "btype": 1,
+    "bshow": 1,
+    "bpx": 24
+  },
+  {
+    "id": 8,
+    "bname": "中奖",
+    "btype": 1,
+    "bshow": 1,
+    "bpx": 23
+  },
+  {
+    "id": 13,
+    "bname": "宝宝",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 13
+  },
+  {
+    "id": 14,
+    "bname": "厨房",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 27
+  },
+  {
+    "id": 15,
+    "bname": "外吃",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 28
+  },
+  {
+    "id": 17,
+    "bname": "学习",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 14
+  },
+  {
+    "id": 18,
+    "bname": "娱乐",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 15
+  },
+  {
+    "id": 19,
+    "bname": "交通",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 26
+  },
+  {
+    "id": 20,
+    "bname": "通讯",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 17
+  },
+  {
+    "id": 21,
+    "bname": "人情往来",
+    "btype": 2,
+    "bshow": 0,
+    "bpx": 20
+  },
+  {
+    "id": 22,
+    "bname": "红包",
+    "btype": 1,
+    "bshow": 1,
+    "bpx": 7
+  },
+  {
+    "id": 23,
+    "bname": "其他",
+    "btype": 1,
+    "bshow": 1,
+    "bpx": 8
+  },
+  {
+    "id": 24,
+    "bname": "捡钱",
+    "btype": 1,
+    "bshow": 1,
+    "bpx": 22
+  },
+  {
+    "id": 25,
+    "bname": "居住",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 18
+  },
+  {
+    "id": 26,
+    "bname": "零食",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 25
+  },
+  {
+    "id": 27,
+    "bname": "服饰",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 21
+  },
+  {
+    "id": 28,
+    "bname": "日用",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 29
+  },
+  {
+    "id": 29,
+    "bname": "烟酒",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 30
+  },
+  {
+    "id": 30,
+    "bname": "医疗",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 32
+  },
+  {
+    "id": 31,
+    "bname": "游玩",
+    "btype": 2,
+    "bshow": 0,
+    "bpx": 31
+  },
+  {
+    "id": 32,
+    "bname": "美容",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 33
+  },
+  {
+    "id": 33,
+    "bname": "捐赠",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 34
+  },
+  {
+    "id": 34,
+    "bname": "奶果",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 35
+  },
+  {
+    "id": 35,
+    "bname": "运动",
+    "btype": 2,
+    "bshow": 1,
+    "bpx": 36
+  }
+]
